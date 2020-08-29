@@ -1,0 +1,26 @@
+{
+    "arr" : [
+        {
+            "title": "Scriabin Etude Op. 42 No. 5",
+            "duration": 3.09,
+            "dir": "etude_42_5",
+            "links": [
+                "https://www.youtube.com/watch?v=xudZ3J4EeoQ",
+                "https://www.youtube.com/watch?v=dQDKjDeV5W0",
+                "https://www.youtube.com/watch?v=vsvrtkPHAwc",
+                "https://www.youtube.com/watch?v=HHmqN8_u5ZA",
+                "https://www.youtube.com/watch?v=MnRgGY_Tz-M",
+                "https://www.youtube.com/watch?v=PVPBCGJnoRI"
+            ]
+        },
+        {
+            "title": "Schumann Fantasiestucke, Des Abends",
+            "dir": "des_abends",
+            "duration": 3.51,
+            "links": [
+                "https://www.youtube.com/watch?v=TBKRYXKyWJg",
+                "https://www.youtube.com/watch?v=FiKiEDNu5lE"
+            ]
+        }
+    ]
+}
